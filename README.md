@@ -1,5 +1,5 @@
 # PianoVR
-Ghost Pianist(https://github.com/SeungwooSon225/GhostPianist)를 활용한 VR 피아노 연주 프로젝트
+Ghost Pianist (https://github.com/SeungwooSon225/GhostPianist) 를 활용한 VR 피아노 연주 프로젝트
 
 Ghost Pianist에서 전달한 손 추적 정보, 피아노 건반 입력 정보를 받아와 VR 손 모델과 피아노 모델을 컨트롤 함
 
